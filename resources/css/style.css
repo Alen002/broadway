@@ -1,10 +1,13 @@
 body {
-  text-align: center;
+text-align: center;
+font-family: Helvetica;
+
 }
 
 #nav {
-  
+  background-image: url(../images/building.png);
 }
+
 
 
 ul {
