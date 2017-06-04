@@ -1,11 +1,24 @@
 body {
 text-align: center;
 font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
 
 }
 
+
+
+
 #nav {
   background-image: url(building.png);
+  color: white;
+}
+
+#navpoints {
+  font-size: 18px;
+  color: white;
 }
 
 
