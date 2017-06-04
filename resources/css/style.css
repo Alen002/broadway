@@ -8,10 +8,13 @@ h1 {
 
 }
 
+h2{
+  font-size: 23px;
+  font-weight: bold;
+}
 
 
-
-#nav {
+#nav, #image {
   background-image: url(building.png);
   color: white;
 }
@@ -25,4 +28,24 @@ h1 {
 
 ul {
   list-style-type: none;
+}
+
+
+#ourProcess {
+  font-size: 32px;
+}
+
+#footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+#footerText{
+  font-size: 13px;
+}
+
+a {
+  color: white;
 }
